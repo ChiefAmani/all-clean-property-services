@@ -43,15 +43,9 @@ Data sources: All previous research sections.
 
 ### Section 6: Strategic Recommendations for $500,000+ Sales (~800 words)
 Key arguments:
-- **Financial Target Breakdown:** Detailed financial model to achieve $500,000+ sales, including revenue drivers, customer volume, and average service value.
-- **Service Expansion/Refinement:** Recommendations for new services or enhancing existing ones (e.g., specialized roof treatments, power washing, commercial contracts), with financial impact.
-- **Pricing Strategy:** Analysis of current pricing and recommendations for adjustments to optimize revenue and competitiveness, including value-based pricing and package deals.
-- **Cost Structure Optimization:** Identification of key cost drivers (labor, supplies, equipment) and strategies for cost reduction and efficiency.
-- **Profitability Analysis:** Gross margin targets, contribution margin per service, and overall profitability projections.
-- **Cash Flow Management:** Importance of managing working capital and cash runway for growth.
-- **Marketing & Sales:** Strategies to increase visibility, attract new customers, and improve conversion rates (e.g., online presence, local SEO, referral programs, seasonal promotions), with associated ROI.
-- **Operational Efficiency:** Suggestions for improving internal processes to support growth and profitability, quantifying potential savings.
-- **Customer Experience:** Recommendations for enhancing customer satisfaction and loyalty, linking to LTV.
-- **Technology Adoption:** Suggestions for tools or platforms to streamline operations or improve customer interaction, with cost-benefit analysis.
-- **Key Financial Risks:** Identification and mitigation strategies for market, execution, and financial risks.
+The detailed financial analysis, including the $500,000+ sales model, profitability projections, sensitivity analysis, strategic financial recommendations, and key financial risks, is provided in `FINANCIAL_ANALYSIS.md`. This section will summarize the key financial insights and recommendations from that document.
+- **Financial Overview:** Summary of the $500,000+ sales model and key financial assumptions.
+- **Revenue Growth Strategies:** Key recommendations for service expansion, pricing, and sales initiatives.
+- **Cost & Profitability Management:** Strategies for optimizing cost structure and improving net profit.
+- **Top Financial Risks:** Summary of the most critical financial risks and their mitigation plans.
 Data sources: All previous research sections, industry best practices, financial modeling assumptions.

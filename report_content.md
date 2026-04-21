@@ -36,11 +36,11 @@ Student Suds positions itself as an affordable, student-run service primarily fo
 ### All Clear from Here
 
 All Clear from Here is a more established player, offering a broader range of exterior cleaning services. They emphasize professionalism and quality.
-- **Services Offered:** Window cleaning, gutter cleaning, pressure washing (driveways, siding), roof cleaning.
-- **Apparent Pricing Strategy:** Mid-range to premium, reflecting their focus on quality and comprehensive service.
-- **Unique Selling Propositions:** Experienced technicians, comprehensive exterior cleaning, strong focus on customer satisfaction.
-- **Online Presence:** Professional website, good SEO, active on Google My Business with numerous positive reviews.
-- **Customer Sentiment:** Generally positive, praising thoroughness and reliability. Some reviews mention higher pricing compared to budget options.
+* **Services Offered:** Window cleaning, gutter cleaning, pressure washing (driveways, siding), roof cleaning.
+* **Apparent Pricing Strategy:** Mid-range to premium, reflecting their focus on quality and comprehensive service.
+* **Unique Selling Propositions:** Experienced technicians, comprehensive exterior cleaning, strong focus on customer satisfaction.
+* **Online Presence:** Professional website, good SEO, active on Google My Business with numerous positive reviews.
+* **Customer Sentiment:** Generally positive, praising thoroughness and reliability. Some reviews mention higher pricing compared to budget options.
 
 ### Ascend Cleaning Services
 

@@ -63,11 +63,11 @@ Heights Residential focuses on a premium residential market, offering a wide arr
 ### Winducks
 
 Winducks specializes primarily in window and gutter cleaning, often serving a high volume of residential clients.
-- **Services Offered:** Window cleaning (interior/exterior), gutter cleaning, eavestrough cleaning.
-- **Apparent Pricing Strategy:** Competitive, often offering quick service and package deals for their core offerings.
-- **Unique Selling Propositions:** Specialization in windows and gutters, efficient service, experienced teams.
-- **Online Presence:** Functional website, strong local presence, good number of reviews on various platforms.
-- **Customer Sentiment:** Generally positive for their core services, highlighting speed and effectiveness. Some feedback suggests less flexibility for custom requests.
+* **Services Offered:** Window cleaning (interior/exterior), gutter cleaning, eavestrough cleaning.
+* **Apparent Pricing Strategy:** Competitive, often offering quick service and package deals for their core offerings.
+* **Unique Selling Propositions:** Specialization in windows and gutters, efficient service, experienced teams.
+* **Online Presence:** Functional website, strong local presence, good number of reviews on various platforms.
+* **Customer Sentiment:** Generally positive for their core services, highlighting speed and effectiveness. Some feedback suggests less flexibility for custom requests.
 
 This competitive analysis reveals that while many players exist, there's a clear opportunity for All Clean Property Services to differentiate by combining comprehensive service offerings with exceptional customer experience and strategic pricing.
 

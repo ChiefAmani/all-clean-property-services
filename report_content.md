@@ -94,10 +94,10 @@ To achieve and surpass the $500,000 annual sales target, All Clean Property Serv
 ### 5.1 Service Diversification and Bundling
 
 Expand and refine service offerings to capture a larger share of the market and increase average customer value.
-- **Introduce Tiered Service Packages:** Offer "Basic," "Premium," and "Deluxe" packages for both residential and commercial cleaning. This caters to different budget levels and perceived value. For example, a "Deluxe Exterior Refresh" could include window cleaning, gutter cleaning, and power washing at a bundled price.
-- **Expand Specialized Exterior Services:** Beyond current offerings, consider adding services like roof moss removal, exterior soft washing (for delicate surfaces), and perhaps even holiday light installation/removal during seasonal peaks. These are high-margin services that complement existing offerings.
-- **Develop Commercial Maintenance Contracts:** Actively pursue long-term contracts with businesses, offices, and property management companies. These provide stable, recurring revenue. Tailor proposals to specific business needs, emphasizing reliability and professional appearance.
-- **Seasonal Service Promotions:** Create specific campaigns for spring clean-ups (gutters, windows, power washing), fall leaf removal/gutter protection, and winter indoor deep cleaning.
+* **Introduce Tiered Service Packages:** Offer "Basic," "Premium," and "Deluxe" packages for both residential and commercial cleaning. This caters to different budget levels and perceived value. For example, a "Deluxe Exterior Refresh" could include window cleaning, gutter cleaning, and power washing at a bundled price.
+* **Expand Specialized Exterior Services:** Beyond current offerings, consider adding services like roof moss removal, exterior soft washing (for delicate surfaces), and perhaps even holiday light installation/removal during seasonal peaks. These are high-margin services that complement existing offerings.
+* **Develop Commercial Maintenance Contracts:** Actively pursue long-term contracts with businesses, offices, and property management companies. These provide stable, recurring revenue. Tailor proposals to specific business needs, emphasizing reliability and professional appearance.
+* **Seasonal Service Promotions:** Create specific campaigns for spring clean-ups (gutters, windows, power washing), fall leaf removal/gutter protection, and winter indoor deep cleaning.
 
 ### 5.2 Targeted Marketing and Brand Building
 

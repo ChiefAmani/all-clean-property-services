@@ -27,11 +27,11 @@ Understanding the competitive landscape is crucial for All Clean Property Servic
 ### Student Suds
 
 Student Suds positions itself as an affordable, student-run service primarily focused on window cleaning and exterior washing. Their unique selling proposition (USP) is often their lower price point and the appeal of supporting local students.
-- **Services Offered:** Window cleaning, exterior house washing, gutter cleaning.
-- **Apparent Pricing Strategy:** Generally lower than market average, appealing to budget-conscious customers. Often offers package deals.
-- **Unique Selling Propositions:** Cost-effective, student-run, community-focused.
-- **Online Presence:** Active on social media, basic website, relies heavily on word-of-mouth and local advertising.
-- **Customer Sentiment:** Reviews often highlight affordability and friendly service, but sometimes mention inconsistencies in scheduling or service quality due to the transient nature of student labor.
+* **Services Offered:** Window cleaning, exterior house washing, gutter cleaning.
+* **Apparent Pricing Strategy:** Generally lower than market average, appealing to budget-conscious customers. Often offers package deals.
+* **Unique Selling Propositions:** Cost-effective, student-run, community-focused.
+* **Online Presence:** Active on social media, basic website, relies heavily on word-of-mouth and local advertising.
+* **Customer Sentiment:** Reviews often highlight affordability and friendly service, but sometimes mention inconsistencies in scheduling or service quality due to the transient nature of student labor.
 
 ### All Clear from Here
 

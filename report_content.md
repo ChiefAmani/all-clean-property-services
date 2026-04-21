@@ -102,11 +102,11 @@ Expand and refine service offerings to capture a larger share of the market and 
 ### 5.2 Targeted Marketing and Brand Building
 
 Enhance visibility and attract high-value clients through strategic marketing efforts.
-- **Optimize Online Presence:** Invest in a professional, mobile-responsive website showcasing services, testimonials, and an easy booking system. Implement SEO best practices to rank higher for local search terms like "Edmonton property services" or "commercial cleaning Edmonton."
-- **Leverage Social Media:** Develop a content strategy for platforms like Facebook and Instagram. Share before-and-after photos, customer testimonials, cleaning tips, and promotions. Run targeted ads to reach specific demographics (e.g., homeowners in affluent neighborhoods, local business owners).
-- **Google My Business Optimization:** Ensure the Google My Business profile is fully optimized with high-quality photos, accurate information, and actively solicit and respond to customer reviews. This is critical for local search visibility.
-- **Partnerships and Referrals:** Forge relationships with real estate agents, property managers, and home renovation companies for referral programs. Offer incentives for existing customers who refer new clients.
-- **Local Community Engagement:** Sponsor local events or sports teams to build brand recognition and community goodwill.
+* **Optimize Online Presence:** Invest in a professional, mobile-responsive website showcasing services, testimonials, and an easy booking system. Implement SEO best practices to rank higher for local search terms like "Edmonton property services" or "commercial cleaning Edmonton."
+* **Leverage Social Media:** Develop a content strategy for platforms like Facebook and Instagram. Share before-and-after photos, customer testimonials, cleaning tips, and promotions. Run targeted ads to reach specific demographics (e.g., homeowners in affluent neighborhoods, local business owners).
+* **Google My Business Optimization:** Ensure the Google My Business profile is fully optimized with high-quality photos, accurate information, and actively solicit and respond to customer reviews. This is critical for local search visibility.
+* **Partnerships and Referrals:** Forge relationships with real estate agents, property managers, and home renovation companies for referral programs. Offer incentives for existing customers who refer new clients.
+* **Local Community Engagement:** Sponsor local events or sports teams to build brand recognition and community goodwill.
 
 ### 5.3 Operational Efficiency and Quality Control
 

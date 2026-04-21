@@ -45,11 +45,11 @@ All Clear from Here is a more established player, offering a broader range of ex
 ### Ascend Cleaning Services
 
 Ascend Cleaning Services appears to target both residential and commercial clients, with a strong emphasis on interior cleaning but also offering some exterior services.
-- **Services Offered:** Residential cleaning (deep, recurring), commercial cleaning, post-construction cleaning, some window cleaning.
-- **Apparent Pricing Strategy:** Competitive for recurring contracts, potentially higher for one-off deep cleans or specialized services.
-- **Unique Selling Propositions:** Versatile (residential & commercial), attention to detail, customizable cleaning plans.
-- **Online Presence:** Modern website, strong presence on local business directories, good customer testimonials.
-- **Customer Sentiment:** Positive for interior cleaning, highlighting reliability and thoroughness. Exterior services are less frequently reviewed.
+* **Services Offered:** Residential cleaning (deep, recurring), commercial cleaning, post-construction cleaning, some window cleaning.
+* **Apparent Pricing Strategy:** Competitive for recurring contracts, potentially higher for one-off deep cleans or specialized services.
+* **Unique Selling Propositions:** Versatile (residential & commercial), attention to detail, customizable cleaning plans.
+* **Online Presence:** Modern website, strong presence on local business directories, good customer testimonials.
+* **Customer Sentiment:** Positive for interior cleaning, highlighting reliability and thoroughness. Exterior services are less frequently reviewed.
 
 ### Heights Residential
 

@@ -54,11 +54,11 @@ Ascend Cleaning Services appears to target both residential and commercial clien
 ### Heights Residential
 
 Heights Residential focuses on a premium residential market, offering a wide array of home maintenance services beyond just cleaning.
-- **Services Offered:** Window cleaning, gutter cleaning, pressure washing, minor repairs, handyman services, holiday light installation.
-- **Apparent Pricing Strategy:** Premium pricing, targeting affluent homeowners seeking a full-service solution.
-- **Unique Selling Propositions:** One-stop shop for home exterior maintenance, high-quality service, convenience for busy homeowners.
-- **Online Presence:** Polished website, strong local SEO, active on social media with visually appealing content.
-- **Customer Sentiment:** Excellent reviews, praising professionalism, efficiency, and the convenience of bundled services.
+* **Services Offered:** Window cleaning, gutter cleaning, pressure washing, minor repairs, handyman services, holiday light installation.
+* **Apparent Pricing Strategy:** Premium pricing, targeting affluent homeowners seeking a full-service solution.
+* **Unique Selling Propositions:** One-stop shop for home exterior maintenance, high-quality service, convenience for busy homeowners.
+* **Online Presence:** Polished website, strong local SEO, active on social media with visually appealing content.
+* **Customer Sentiment:** Excellent reviews, praising professionalism, efficiency, and the convenience of bundled services.
 
 ### Winducks
 

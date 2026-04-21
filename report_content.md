@@ -120,11 +120,11 @@ Streamline operations to improve service delivery, reduce costs, and maintain hi
 ### 5.4 Financial Management and Pricing Strategy
 
 Optimize pricing and manage finances to maximize profitability and support growth.
-- **Value-Based Pricing:** Move beyond hourly rates to value-based pricing, especially for bundled services and commercial contracts. Price based on the perceived value to the customer and the results delivered, not just the time spent.
-- **Cost Analysis and Control:** Regularly review operational costs, including labor, supplies, and equipment maintenance. Identify areas for cost reduction without compromising quality.
-- **Cash Flow Management:** Implement robust cash flow forecasting and management practices to ensure liquidity and support expansion.
-- **Monitor Key Performance Indicators (KPIs):** Regularly track KPIs such as customer acquisition cost (CAC), customer lifetime value (LTV), average job value, and net profit margin. Use this data to make informed strategic decisions.
-- **Contingency Planning:** Develop financial contingency plans to address unexpected challenges, such as economic downturns or equipment breakdowns.
+* **Value-Based Pricing:** Move beyond hourly rates to value-based pricing, especially for bundled services and commercial contracts. Price based on the perceived value to the customer and the results delivered, not just the time spent.
+* **Cost Analysis and Control:** Regularly review operational costs, including labor, supplies, and equipment maintenance. Identify areas for cost reduction without compromising quality.
+* **Cash Flow Management:** Implement robust cash flow forecasting and management practices to ensure liquidity and support expansion.
+* **Monitor Key Performance Indicators (KPIs):** Regularly track KPIs such as customer acquisition cost (CAC), customer lifetime value (LTV), average job value, and net profit margin. Use this data to make informed strategic decisions.
+* **Contingency Planning:** Develop financial contingency plans to address unexpected challenges, such as economic downturns or equipment breakdowns.
 
 ## Section 6: Implementation Roadmap
 

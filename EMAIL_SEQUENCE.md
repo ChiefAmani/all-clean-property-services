@@ -291,6 +291,7 @@ This document outlines the content for 12 emails, designed to be sent bi-weekly 
 
 ### Email 12: Lock in 2024 Pricing for Next Year / Winter Commercial Cleaning Contracts (Offer)
 *   **Subject (Residential):** Lock in 2024 Pricing: Plan Your 2025 Property Care Now!
+    ![Lock Pricing](email12_lock_pricing.png)
 *   **Body (Residential):**
     As the year draws to a close, it's smart to plan ahead! We're offering our valued residential clients the chance to **lock in our current 2024 pricing** for all your 2025 property cleaning and maintenance needs.
 

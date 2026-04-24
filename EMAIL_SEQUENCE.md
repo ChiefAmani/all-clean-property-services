@@ -194,6 +194,7 @@ This document outlines the content for 12 emails, designed to be sent bi-weekly 
 
 ### Email 8: Deep Clean Special (Offer)
 *   **Subject:** Back-to-Routine Deep Clean Special!
+    ![Deep Clean Special](email8_deep_clean_special.png)
 *   **Body:**
     As summer winds down and routines kick back in, it's the perfect time for a fresh start indoors! Whether it's your home or office, a professional deep clean can make all the difference.
 

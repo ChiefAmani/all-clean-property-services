@@ -14,7 +14,7 @@ All Markdown (.md) files will be converted to Word (.docx) format.
 - MARKETING_PLAN.md -> MARKETING_PLAN.docx
 
 ## Branding Guidelines:
-- **Company Colors:** Red (#FF0000) and White (#FFFFFF).
+- **Company Colors:** Primary Red (#CC0000) and White (#FFFFFF).
 - **Logo:** The provided 'Logo.png' must be included in all generated visuals (e.g., marketing images, email headers if applicable).
 - **Visuals Theme:** All new visuals or modifications to existing visuals should adhere to the red and white color scheme and incorporate the company logo.
 
@@ -41,6 +41,7 @@ The final zip folder for handoff will include the following files:
 - email10_early_bird_gutters.html
 - email11_winterization_checklist.html
 - email12_lock_pricing.html
+**Note:** All HTML email templates must be valid, fully functional, and render correctly across major email clients. They should incorporate the red and white branding and the company logo where appropriate.
 
 ### Campaign Data (.json):
 - campaign_calendar.json

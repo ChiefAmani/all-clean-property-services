@@ -58,6 +58,7 @@ This document outlines the content for 12 emails, designed to be sent bi-weekly 
 
 ### Email 3: How Grime is Damaging Your Siding (And How to Stop It) (Value)
 *   **Subject:** Is Your Siding Under Attack? What You Need to Know.
+    ![Siding Grime](email3_siding_grime.png)
 *   **Body:**
     That green film or dark streaking on your siding isn't just ugly – it's often mold, mildew, and algae actively damaging your property! Left unchecked, it can degrade materials, reduce curb appeal, and even impact air quality.
 

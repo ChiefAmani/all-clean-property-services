@@ -127,6 +127,7 @@ This document outlines the content for 12 emails, designed to be sent bi-weekly 
 
 ### Email 6: The All Clean Referral Program (Offer)
 *   **Subject:** Get $50, Give $50: Share the Sparkle!
+    ![Referral Program](email6_referral_program.png)
 *   **Body:**
     We believe the best compliment is a referral, and we love rewarding our loyal clients! If you've enjoyed the All Clean Property Services experience, why not share it with a friend, family member, or business associate?
 

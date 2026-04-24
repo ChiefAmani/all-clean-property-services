@@ -30,6 +30,7 @@ This document outlines the content for 12 emails, designed to be sent bi-weekly 
 
 ### Email 2: The Spring Curb Appeal Bundle (Offer)
 *   **Subject:** Spring Special: Get a Sparkling Home & Save!
+    ![Spring Curb Appeal Bundle](email2_spring_bundle.png)
 *   **Body:**
     After a long Edmonton winter, your property deserves a refresh! Grimy windows and clogged gutters aren't just an eyesore – they can lead to bigger problems down the line.
 

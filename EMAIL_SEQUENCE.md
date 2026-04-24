@@ -78,6 +78,7 @@ This document outlines the content for 12 emails, designed to be sent bi-weekly 
 
 ### Email 4: Flash Sale: 15% off all Pressure Washing services booked this week (Offer)
 *   **Subject:** Flash Sale: 15% OFF Pressure Washing!
+    ![Pressure Washing Sale](email4_pressure_wash_sale.png)
 *   **Body:**
     Summer's here, and it's the perfect time to blast away winter's dirt and grime! For a limited time, we're making it even easier to get that sparkling clean exterior you've been dreaming of.
 

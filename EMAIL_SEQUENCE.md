@@ -8,6 +8,7 @@ This document outlines the content for 12 emails, designed to be sent bi-weekly 
 
 ### Email 1: The Ultimate Edmonton Property Spring Checklist (Value & Segmentation)
 *   **Subject:** Your Edmonton Spring Property Checklist is Here!
+    ![Spring Checklist](email1_spring_checklist.png)
 *   **Body:**
     Spring's arrived in Edmonton, and with it, a fresh start for your home or business! But where to begin with all that post-winter cleanup?
 

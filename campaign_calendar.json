@@ -1,0 +1,103 @@
+{
+  "campaign_name": "All Clean 6-Month Revenue Doubler",
+  "platform": "Sender.net",
+  "target_audience": "1000+ Unsegmented Contacts (Progressively segmenting into Residential/Commercial)",
+  "emails": [
+    {
+      "month": 1,
+      "send_timing": "Week 1",
+      "email_type": "Value & Segmentation",
+      "subject_idea": "Your Edmonton Property Spring Checklist",
+      "content_summary": "Re-introduce All Clean. Provide a highly valuable checklist for spring property maintenance. Crucial: Include two distinct links ('Homeowners Guide' vs 'Business Owners Guide') to trigger Sender.net tags for future segmentation.",
+      "cta": "Click to read your specific guide (Soft CTA to reply for a quote)"
+    },
+    {
+      "month": 1,
+      "send_timing": "Week 3",
+      "email_type": "Offer",
+      "subject_idea": "Spring Curb Appeal Bundle (Save $50)",
+      "content_summary": "Direct offer for a combined Window + Gutter cleaning package. Highlight the visual transformation and protection it offers.",
+      "cta": "Reply 'SPRING' to this email to claim your $50 off and book a call."
+    },
+    {
+      "month": 2,
+      "send_timing": "Week 1",
+      "email_type": "Value",
+      "subject_idea": "Is grime secretly damaging your siding?",
+      "content_summary": "Educational piece on how mold, algae, and dirt degrade exterior materials over time, leading to costly repairs.",
+      "cta": "Reply to book a free exterior assessment call."
+    },
+    {
+      "month": 2,
+      "send_timing": "Week 3",
+      "email_type": "Offer",
+      "subject_idea": "Flash Sale: 15% Off Pressure Washing",
+      "content_summary": "Time-sensitive offer for pressure washing (driveways, siding, commercial walkways). Emphasize instant curb appeal.",
+      "cta": "Click here to book your pressure washing slot (Only 10 spots available)."
+    },
+    {
+      "month": 3,
+      "send_timing": "Week 1",
+      "email_type": "Value & Trust",
+      "subject_idea": "Behind the scenes: How we get windows 100% streak-free",
+      "content_summary": "Showcase expertise. Briefly explain the professional equipment and techniques used vs. DIY methods. Include a strong customer testimonial.",
+      "cta": "Reply to get a custom window cleaning quote."
+    },
+    {
+      "month": 3,
+      "send_timing": "Week 3",
+      "email_type": "Offer / Referral",
+      "subject_idea": "Give $50, Get $50 (Our New Referral Program)",
+      "content_summary": "Leverage the 1000+ list to generate warm leads. Explain the referral program: they get a $50 credit for their next clean, and their friend gets $50 off their first service.",
+      "cta": "Forward this email to a friend or reply with their contact info."
+    },
+    {
+      "month": 4,
+      "send_timing": "Week 1",
+      "email_type": "Value",
+      "subject_idea": "Reclaim your weekends (and your peace of mind)",
+      "content_summary": "Focus on the psychological benefits of a clean space. For residential: more family time. For commercial: higher employee productivity and better client impressions.",
+      "cta": "Reply to discuss a recurring cleaning schedule."
+    },
+    {
+      "month": 4,
+      "send_timing": "Week 3",
+      "email_type": "Offer",
+      "subject_idea": "The 'Back to Routine' Deep Clean Special",
+      "content_summary": "Offer focused on interior deep cleaning as summer ends. Great for post-summer resets for homes and offices.",
+      "cta": "Click to book your Deep Clean and get a free oven/fridge add-on."
+    },
+    {
+      "month": 5,
+      "send_timing": "Week 1",
+      "email_type": "Value",
+      "subject_idea": "Why Edmonton winters destroy clogged gutters",
+      "content_summary": "High-value warning about ice dams, foundation damage, and roof leaks caused by ignoring fall gutter cleaning.",
+      "cta": "Reply to get on our Fall Gutter schedule before we book up."
+    },
+    {
+      "month": 5,
+      "send_timing": "Week 3",
+      "email_type": "Offer",
+      "subject_idea": "Early Bird Fall Gutter Cleaning (Secure your spot)",
+      "content_summary": "Push for early bookings for gutter cleaning. Create urgency around the impending freeze.",
+      "cta": "Reply 'GUTTERS' to lock in your spot and get 10% off."
+    },
+    {
+      "month": 6,
+      "send_timing": "Week 1",
+      "email_type": "Value",
+      "subject_idea": "Your Ultimate Property Winterization Checklist",
+      "content_summary": "A comprehensive checklist for preparing a property for an Edmonton winter. Includes things we do (gutters) and things they should do (shut off exterior water).",
+      "cta": "Reply if you need help checking off the exterior tasks."
+    },
+    {
+      "month": 6,
+      "send_timing": "Week 3",
+      "email_type": "Offer",
+      "subject_idea": "Lock in 2024 pricing for next year",
+      "content_summary": "End of season wrap-up. Offer to lock in current rates for recurring services next year, or pitch winter commercial cleaning contracts.",
+      "cta": "Reply to set up your recurring contract and beat the price increase."
+    }
+  ]
+}

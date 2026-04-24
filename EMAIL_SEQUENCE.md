@@ -107,6 +107,7 @@ This document outlines the content for 12 emails, designed to be sent bi-weekly 
 
 ### Email 5: Behind the Scenes: How we get windows streak-free (Value)
 *   **Subject:** The Secret to Perfectly Streak-Free Windows (Revealed!)
+    ![Streak-Free Windows](email5_streak_free_windows.png)
 *   **Body:**
     Ever wonder how professional window cleaners get that impossible, crystal-clear shine? It's not just elbow grease! There's a science to it, and we're pulling back the curtain.
 

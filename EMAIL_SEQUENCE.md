@@ -156,6 +156,7 @@ This document outlines the content for 12 emails, designed to be sent bi-weekly 
 
 ### Email 7: The ROI of a Clean Workspace (Commercial) / Reclaiming Your Weekends (Residential) (Value)
 *   **Subject (Commercial):** Boost Productivity & Profits: The ROI of a Clean Workspace
+    ![Clean Space ROI](email7_clean_space_roi.png)
 *   **Body (Commercial):**
     For business owners and property managers, a clean workspace isn't just about aesthetics – it's a strategic investment. Studies show a direct link between a clean environment and increased employee productivity, improved client perception, and even reduced sick days.
 

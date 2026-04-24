@@ -244,6 +244,7 @@ This document outlines the content for 12 emails, designed to be sent bi-weekly 
 
 ### Email 10: Early Bird Fall Gutter Cleaning (Offer)
 *   **Subject:** Early Bird Special: Secure Your Fall Gutter Cleaning!
+    ![Early Bird Gutters](email10_early_bird_gutters.png)
 *   **Body:**
     The leaves are starting to turn, and that means one thing for Edmonton properties: gutter season is almost here! Don't get caught with overflowing, ice-dam-prone gutters this winter.
 

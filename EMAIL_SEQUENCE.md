@@ -224,6 +224,7 @@ This document outlines the content for 12 emails, designed to be sent bi-weekly 
 
 ### Email 9: Why Edmonton Winters Destroy Clogged Gutters (Value)
 *   **Subject:** Don't Let Clogged Gutters Ruin Your Edmonton Winter!
+    ![Clogged Gutters](email9_clogged_gutters.png)
 *   **Body:**
     Fall leaves are beautiful, but they're a nightmare for your gutters. As Edmonton's winter approaches, clogged gutters become a serious threat to your property. Ice dams, overflowing water, and foundation damage are just a few of the costly problems that can arise.
 

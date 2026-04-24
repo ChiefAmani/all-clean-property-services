@@ -105,3 +105,90 @@ This table illustrates how changes in key assumptions can impact net profit.
     -   **Probability:** 3 (Moderate) - Marketing efforts might not yield sufficient ROI, leading to high CAC.
     -   **Impact:** 4 (Significant) - If the cost to acquire a new customer exceeds their lifetime value, growth becomes unsustainable.
     -   **Mitigation:** Focus on cost-effective marketing channels (local SEO, referrals, social media), track CAC rigorously, and prioritize customer retention to maximize LTV. Implement loyalty programs and excellent customer service.
+
+## 7. Email Marketing Campaign Financial Projections (6 Months)
+
+*   **Goal:** Contribute to increasing annual revenue from $250,000 to $500,000.
+*   **Campaign Duration:** 6 months
+*   **Email List Size:** 1,000 contacts (cleaned and sorted)
+*   **Average Service Value (ASV):** $350 (Base Case from Section 2)
+
+**Assumptions for Email Campaign Performance:**
+
+| Metric                               | Bear Case (-20%) | Base Case        | Bull Case (+20%) | Source/Assumption                               |
+| :----------------------------------- | :--------------- | :--------------- | :--------------- | :---------------------------------------------- |
+| Emails Sent (per subscriber/month)   | 1.6              | 2                | 2.4              | Campaign Strategy / CFO Estimate                |
+| Total Emails Sent (6 months)         | 9,600            | 12,000           | 14,400           | List Size * Emails/Month * 6                    |
+| Open Rate                            | 20%              | 25%              | 30%              | Industry Average (Cleaning Services) / CFO Est. |
+| Click-Through Rate (CTR)             | 2.4%             | 3%               | 3.6%             | Industry Average (Cleaning Services) / CFO Est. |
+| Conversion Rate (Click to Call)      | 12%              | 15%              | 18%              | CFO Estimate (Optimistic for clear CTA)         |
+| Conversion Rate (Call to Service)    | 32%              | 40%              | 48%              | CFO Estimate (Assumes good sales follow-up)     |
+
+**Projected Revenue Contribution (6 Months):**
+
+| Scenario | Total Emails Sent | Total Opens | Total Clicks | Calls Booked | Services Booked | Revenue Contribution |
+| :------- | :---------------- | :---------- | :----------- | :----------- | :-------------- | :------------------- |
+| Bear     | 9,600             | 1,920       | 46           | 5.5          | 1.8             | $630                 |
+| **Base** | **12,000**        | **3,000**   | **90**       | **13.5**     | **5.4**         | **$1,890**           |
+| Bull     | 14,400            | 4,320       | 156          | 28.1         | 13.5            | $4,725               |
+
+*Note: Revenue contribution is calculated as Services Booked * Average Service Value ($350).*
+
+**Cost of Email Campaign (6 Months):**
+
+*   Sender.net Subscription: $20/month * 6 months = $120
+*   Content Creation/Management: Assumed to be absorbed within existing operational overhead for this initial phase.
+
+**Return on Investment (ROI) - Base Case:**
+
+*   Net Gain = Revenue Contribution - Direct Campaign Cost
+*   Net Gain = $1,890 - $120 = $1,770
+*   ROI = (Net Gain / Direct Campaign Cost) * 100% 
+*   ROI = ($1,770 / $120) * 100% = **1475%**
+
+**Revenue Impact Analysis:**
+
+*   The email campaign is projected to contribute approximately **$1,890** in new revenue over 6 months in the Base Case.
+*   This represents a **0.76%** increase over the current annual revenue of $250,000 (for 6 months, it's 1.52% of half the annual revenue).
+*   **Conclusion:** While the email campaign offers a very high ROI on direct platform costs, its direct revenue contribution alone is **insufficient to achieve the target of doubling annual revenue to $500,000 within 6 months.** The campaign will be a valuable component for client retention and lead nurturing, but significant growth will require:
+    *   **Expanding the email list size** substantially.
+    *   **Increasing service frequency** for existing clients.
+    *   **Introducing higher-value service packages.**
+    *   **Leveraging other marketing channels** and sales efforts.
+    *   **Optimizing conversion rates** across the entire funnel (email open to service booked).
+
+**Key Performance Indicators (KPIs) for Email Marketing Campaign:**
+
+1.  **Email Open Rate:** Percentage of recipients who open an email.
+    *   *Target:* 25%+
+2.  **Click-Through Rate (CTR):** Percentage of recipients who click a link in the email.
+    *   *Target:* 3%+
+3.  **Conversion Rate (Click to Call/Quote Request):** Percentage of clicks that result in a booked call or quote request.
+    *   *Target:* 15%+
+4.  **Conversion Rate (Call to Service Booked):** Percentage of booked calls that convert into actual services.
+    *   *Target:* 40%+
+5.  **Revenue Attributed to Email Campaign:** Total revenue generated directly from email campaign conversions.
+    *   *Target:* Track actual vs. projected.
+6.  **Customer Lifetime Value (LTV) of Email-Acquired Clients:** The total revenue expected from a customer acquired through email over their relationship with the company.
+    *   *Target:* Monitor and compare to CAC.
+7.  **Customer Acquisition Cost (CAC) via Email:** Total cost of email campaign divided by the number of new customers acquired through email.
+    *   *Target:* Keep low, ensure LTV:CAC > 3:1.
+8.  **Unsubscribe Rate:** Percentage of recipients who unsubscribe from the email list.
+    *   *Target:* Keep below 0.5% to ensure content relevance.
+9.  **Email List Growth Rate:** Rate at which new, qualified contacts are added to the email list.
+    *   *Target:* Consistent growth to expand reach.
+
+## 8. Key Financial Risks for Email Marketing Campaign
+
+1.  **Financial Risk: Low Conversion Volume (Score: 4x5 = 20)**
+    *   **Probability:** 4 (Likely) - Achieving high conversion rates from a cold/general list is challenging.
+    *   **Impact:** 5 (Existential to campaign goal) - If the volume of conversions remains low, the campaign will not significantly contribute to the $500,000 revenue target.
+    *   **Mitigation:** Aggressively A/B test email content, subject lines, and CTAs. Implement strong lead nurturing sequences. Focus on building trust and providing value before direct sales. Invest in list growth strategies.
+2.  **Execution Risk: Content Fatigue/Irrelevance (Score: 3x4 = 12)**
+    *   **Probability:** 3 (Moderate) - Sending too many irrelevant emails can lead to unsubscribes and reduced engagement.
+    *   **Impact:** 4 (Significant) - Damages brand reputation, reduces future campaign effectiveness, and shrinks the valuable email list.
+    *   **Mitigation:** Strict adherence to segmentation and personalization. Balance value-add content with promotional offers. Allow easy preference management. Monitor unsubscribe rates closely.
+3.  **Market Risk: Competitive Email Saturation (Score: 3x3 = 9)**
+    *   **Probability:** 3 (Moderate) - Competitors may also be using email marketing, leading to crowded inboxes.
+    *   **Impact:** 3 (Moderate) - Can reduce open rates and CTRs if messages don't stand out.
+    *   **Mitigation:** Develop unique value propositions and messaging. Use compelling subject lines and engaging visuals. Focus on building a strong brand voice.

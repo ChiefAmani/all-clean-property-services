@@ -1,51 +1,49 @@
 # CONTENT_OUTLINE.md
 
-## Project: Strategic Analysis for All Clean Property Services
-## Format: docx
-## Target audience: Owner/Management of All Clean Property Services
-## Tone: Professional, analytical, actionable
-## Total target length: ~2500-3500 words
+## Project: All Clean Property Services Handoff Package
+## Format: .docx, .html, .json, .png (zipped)
+## Target audience: Internal team for operational handoff
+## Tone: Professional, clear, instructional
+## Total target length: N/A (collection of documents)
 
-## Section Structure:
-### Section 1: Executive Summary (~300 words)
-Key arguments:
-- Overview of All Clean Property Services' current position in the Edmonton market.
-- Summary of key findings from market and competitor analysis.
-- High-level strategic recommendations for achieving $500,000+ sales.
-Data sources: Internal company information (implied), market research.
+## Document Conversion:
+All Markdown (.md) files will be converted to Word (.docx) format.
+- CAMPAIGN_STRATEGY.md -> CAMPAIGN_STRATEGY.docx
+- EMAIL_SEQUENCE.md -> EMAIL_SEQUENCE.docx
+- FINANCIAL_ANALYSIS.md -> FINANCIAL_ANALYSIS.docx
+- MARKETING_PLAN.md -> MARKETING_PLAN.docx
 
-### Section 2: Market Landscape - Edmonton Property Services (~500 words)
-Key arguments:
-- Definition of the property services market in Edmonton relevant to All Clean (residential cleaning, window, gutter, roof cleaning).
-- Demand drivers and trends in the Edmonton market (e.g., seasonal demand, demographic shifts, property ownership trends).
-- Potential for growth in specific service areas.
-Data sources: Search results on Edmonton property services, general market trends for cleaning/maintenance.
+## Branding Guidelines:
+- **Company Colors:** Red (#FF0000) and White (#FFFFFF).
+- **Logo:** The provided 'Logo.png' must be included in all generated visuals (e.g., marketing images, email headers if applicable).
+- **Visuals Theme:** All new visuals or modifications to existing visuals should adhere to the red and white color scheme and incorporate the company logo.
 
-### Section 3: Competitor Profiles (~700 words)
-Key arguments:
-- Detailed profiles of 3-5 key competitors identified (e.g., Student Suds, All Clear from here, Ascend Cleaning Services, Heights Residential, Winducks).
-- For each competitor: services offered, apparent pricing strategy (if discernible), unique selling propositions, online presence, customer sentiment (from reviews if available).
-Data sources: Search results from Step 3, competitor websites (if browsed).
+## Final Zip Folder Contents:
+The final zip folder for handoff will include the following files:
 
-### Section 4: Feature Comparison Matrix (~400 words)
-Key arguments:
-- A comparative analysis of All Clean Property Services against key competitors across critical features (e.g., service range, pricing models, customer service, online booking, eco-friendly options, specialized equipment).
-- Identify gaps and areas where All Clean can differentiate.
-Data sources: Competitor profiles, All Clean Property Services' stated offerings.
+### Converted Documents (.docx):
+- CAMPAIGN_STRATEGY.docx
+- EMAIL_SEQUENCE.docx
+- FINANCIAL_ANALYSIS.docx
+- MARKETING_PLAN.docx
+- Handoff_Operations_Guide.docx (already in .docx format)
 
-### Section 5: SWOT Analysis for All Clean Property Services (~600 words)
-Key arguments:
-- **Strengths:** Internal capabilities, existing customer base, positive reputation.
-- **Weaknesses:** Areas for improvement, operational inefficiencies, limited service offerings.
-- **Opportunities:** Untapped market segments, new service lines, technological adoption.
-- **Threats:** New competitors, economic downturns, changing customer preferences.
-Data sources: All previous research sections.
+### Email Templates (.html):
+- email1_spring_checklist.html
+- email2_spring_bundle.html
+- email3_siding_grime.html
+- email4_pressure_wash_sale.html
+- email5_streak_free_windows.html
+- email6_referral_program.html
+- email7_clean_space_roi.html
+- email8_deep_clean_special.html
+- email9_clogged_gutters.html
+- email10_early_bird_gutters.html
+- email11_winterization_checklist.html
+- email12_lock_pricing.html
 
-### Section 6: Strategic Recommendations for $500,000+ Sales (~800 words)
-Key arguments:
-The detailed financial analysis, including the $500,000+ sales model, profitability projections, sensitivity analysis, strategic financial recommendations, and key financial risks, is provided in `FINANCIAL_ANALYSIS.md`. This section will summarize the key financial insights and recommendations from that document.
-- **Financial Overview:** Summary of the $500,000+ sales model and key financial assumptions.
-- **Revenue Growth Strategies:** Key recommendations for service expansion, pricing, and sales initiatives.
-- **Cost & Profitability Management:** Strategies for optimizing cost structure and improving net profit.
-- **Top Financial Risks:** Summary of the most critical financial risks and their mitigation plans.
-Data sources: All previous research sections, industry best practices, financial modeling assumptions.
+### Campaign Data (.json):
+- campaign_calendar.json
+
+### Logo (.png):
+- Logo.png (provided by user)

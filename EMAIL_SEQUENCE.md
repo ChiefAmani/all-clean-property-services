@@ -271,6 +271,7 @@ This document outlines the content for 12 emails, designed to be sent bi-weekly 
 
 ### Email 11: Your Property Winterization Checklist (Value)
 *   **Subject:** Edmonton Winter Ready: Your Essential Property Checklist
+    ![Winterization Checklist](email11_winterization_checklist.png)
 *   **Body:**
     Winter in Edmonton can be beautiful, but it's also tough on properties. Preparing your home or business now can save you from burst pipes, ice damage, and unexpected headaches when temperatures drop.
 
